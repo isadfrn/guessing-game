@@ -1,4 +1,4 @@
-# Unique Architecture
+# Guessing game
 
 ![Languages used](https://img.shields.io/github/languages/count/isadfrn/guessing-game?style=flat-square)
 ![Repository size](https://img.shields.io/github/repo-size/isadfrn/guessing-game?style=flat-square)
@@ -16,7 +16,7 @@ Install [Live Server extension](https://marketplace.visualstudio.com/items?itemN
 
 ## Status
 
-Done ✅
+Finished 🛑
 
 ## License
 
